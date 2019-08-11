@@ -46,7 +46,7 @@ class Login extends Component {
         const { getFieldDecorator } = this.props.form;
         return (
             <div className="login">
-                <header className="login_header">我的第一个 MMMM </header>
+                <header className="login_header">我的第一个 MMMMm </header>
                 <div className="login_div">
                     <h1>mm登陆</h1>
                     <div className="login_from">
